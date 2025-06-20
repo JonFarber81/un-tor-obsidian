@@ -19,6 +19,7 @@ Culture:
   - "[[Woodmen of Wilderland]]"
 icon: raPlayer
 iconColor: grey
+Faction:
 ---
 
 

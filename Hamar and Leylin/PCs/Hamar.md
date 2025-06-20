@@ -29,13 +29,14 @@ Wisdom: "2"
 ShadowPath: "[[Treasure Hunter#SHADOW PATH DRAGON- SICKNESS|Dragon-Sickness]]"
 Scars: "0"
 Treasure: 100
-AdventurePoints: 2
-SkillPoints: 6
+AdventurePoints: 5
+SkillPoints: 9
 Load: "13"
 tags:
   - PC
 icon: raPlayer
 Company: "[[An Unlikely Duo]]"
+TreasureCarried: 3
 ---
 
 ![[DwarfYoung.png| profile+medium center]]
@@ -47,10 +48,10 @@ Company: "[[An Unlikely Duo]]"
 | **Culture:** `=this.Culture`                                                                                           |
 | **Calling:** `=this.Calling`                                                                                           |
 | **Features:** `=this.DistinctiveFeatures`                                                                              |
-| **Endurance:**  `29` / `=this.EnduranceMax`                                                                             |
-| **Fatigue/Load:**  ` ` `0` / `=this.Load`                                                                              |
-| **Hope:** ` `  ` ` `7` / `=this.HopeMax`                                                                               |
-| **Shadow/Scars:** `2` / *`=this.scars`*                                                                                |
+| **Endurance:**  `29` / `=this.EnduranceMax`                                                                            |
+| **Fatigue/Load:**  ` ` `0` / (`=this.Load` + `=this.TreasureCarried`)                                                  |
+| **Hope:** ` `  ` ` `8` / `=this.HopeMax`                                                                               |
+| **Shadow/Scars:** `4` / *`=this.scars`*                                                                                |
 | **Parry/Armor:** *`=this.Parry`*  / *`=this.Armor`*                                                                    |
 
 

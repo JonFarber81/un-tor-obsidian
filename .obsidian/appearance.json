@@ -8,5 +8,6 @@
   "accentColor": "#831100",
   "cssTheme": "ITS Theme",
   "showViewHeader": true,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showRibbon": true
 }

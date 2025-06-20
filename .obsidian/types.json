@@ -27,6 +27,8 @@
     "Gear": "multitext",
     "Culture": "multitext",
     "Calling": "multitext",
-    "StandardOfLiving": "multitext"
+    "StandardOfLiving": "multitext",
+    "TreasureCarried": "number",
+    "Load": "number"
   }
 }

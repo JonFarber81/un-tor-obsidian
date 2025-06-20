@@ -1,5 +1,5 @@
 > [!Map]+ Journey
-> *From The Angle to The Trollshaws* 
+> *From A to B* 
 > - Roles: 
 >	- <abbr title="Travel">Guide</abbr>: 
 >	- <abbr title="Hunting">Hunter</abbr>: 

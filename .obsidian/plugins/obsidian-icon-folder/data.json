@@ -71,5 +71,17 @@
   "Hamar and Leylin/NPCs/Caladwen.md": {
     "iconName": "RaPlayer",
     "iconColor": "green"
+  },
+  "Hamar and Leylin/NPCs/Beran.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "grey"
+  },
+  "Hamar and Leylin/NPCs/Haleth.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "grey"
+  },
+  "Hamar and Leylin/NPCs/Rowan.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "grey"
   }
 }

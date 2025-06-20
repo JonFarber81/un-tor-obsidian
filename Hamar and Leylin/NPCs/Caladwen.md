@@ -19,4 +19,4 @@ iconColor: green
 1. **Keen-Eyed:** Caladwen has an exceptional ability to notice details and hidden dangers, making her an excellent scout and lookout.
 2. **Determined:** Once she sets her mind to a task, she pursues it with unwavering focus, letting neither fear nor fatigue deter her.
 
-Caladwen offers a steadying presence for the group, her insights and skills adding a layer of caution and strategy to their journey into the dangerous Trollshaws.
+Caladwen offers a steadying presence for the group, her insights and skills adding a layer of caution and strategy to their journey into the dangerous Trollshaws. The Ranger is easily able to pursue the path, which seems to wind along the edge of the road.

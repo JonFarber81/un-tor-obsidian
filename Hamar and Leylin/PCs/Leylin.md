@@ -34,13 +34,14 @@ Wisdom: "2"
 ShadowPath: "[[Messenger#SHADOW PATH WANDERING-MADNESS|Wandering-Madness]]"
 Scars: "0"
 Treasure: 40
-AdventurePoints: 2
-SkillPoints: 6
-Load: "5"
+AdventurePoints: 5
+SkillPoints: 9
+Load: 5
 tags:
   - PC
 icon: raPlayer
 Company: "[[An Unlikely Duo]]"
+TreasureCarried: 3
 ---
 
 ![[HobbitYoung.png|profile+medium center]]
@@ -51,11 +52,11 @@ Company: "[[An Unlikely Duo]]"
 | **Culture:** `=this.Culture`                                                                     |
 | **Calling:** `=this.Calling`                                                                     |
 | **Features:** `=this.DistinctiveFeatures`                                                        |
-| **Endurance:**  `20` / `=this.EnduranceMax`                                                      |
-| **Fatigue/Load:**  ` ` `1` / `=this.Load`                                                        |
-| **Hope:** ` `  ` ` `11` / `=this.HopeMax`                                                         |
-| **Shadow/Scars:** `3` / *`=this.scars`*                                                          |
-| **Parry/Armor:** *`=this.Parry`+2*  / *`=this.Armor`*                                               |
+| **Endurance:**  `16` / `=this.EnduranceMax`                                                      |
+| **Fatigue/Load:**  ` ` `0` / (`=this.Load` + `=this.TreasureCarried`)                            |
+| **Hope:** ` `  ` ` `10` / `=this.HopeMax`                                                         |
+| **Shadow/Scars:** `4` / *`=this.scars`*                                                          |
+| **Parry/Armor:** *`=this.Parry`+2*  / *`=this.Armor`*                                            |
 
 |                                                 |                                                                                             |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -113,11 +114,11 @@ Company: "[[An Unlikely Duo]]"
 | Adv. Points: `=this.AdventurePoints`                                     |
 | Skill Points: `=this.SkillPoints`                                        |
 
-| Failings & Conditions|
-| ----------------------|
-| Shadow Path: `=this.ShadowPath` |
-| Flaws: - |
-|  `0/1` <abbr title="Gain when Shadow >= Hope. Auto fail on Eye roll.">Miserable</abbr> ` ` `0/1` <abbr title="Gain when Endurance <= Load + Fatigue. Count 1-3 on d6 as 0.">Weary</abbr> |
-| `0/1` <abbr title="Gain when failing Protection roll. No Endurance gain during short rest; gain STR worth of Endurance on Prolonged Rest. On second wound, Endurance=0 and player is dying.">Wounded</abbr> ` ` Injury: - |
+| Failings & Conditions                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Shadow Path: `=this.ShadowPath`                                                                                                                                                                                                |
+| Flaws: -                                                                                                                                                                                                                       |
+| `0/1` <abbr title="Gain when Shadow >= Hope. Auto fail on Eye roll.">Miserable</abbr> ` ` `0/1` <abbr title="Gain when Endurance <= Load + Fatigue. Count 1-3 on d6 as 0.">Weary</abbr>                                        |
+| `1/1` <abbr title="Gain when failing Protection roll. No Endurance gain during short rest; gain STR worth of Endurance on Prolonged Rest. On second wound, Endurance=0 and player is dying.">Wounded</abbr> ` ` Injury: 6 days |
 
 ---

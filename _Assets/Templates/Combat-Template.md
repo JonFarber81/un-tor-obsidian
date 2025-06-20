@@ -1,11 +1,4 @@
-
 > [!combat]+
-> *[[Combat|Take down the thugs. They started it!]]*
-> ![[HumanThug2.png|profile+medium right lp]]
-> 
-> | Enemy                            | Endurance | Resolve | Parry | Might | Active    |
-> | -------------------------------- | --------- | ------- | ----- | ----- | ----- |
-> | [[Adversaries#^Footpad\|Thug 1]] | `8`      | `1`     | 0     |   1 |  `0/1` |
-> | [[Adversaries#^Footpad\|Thug 2]] | `8`       | `1`     | +1   |  1 |  `0/1` |
-> | [[Adversaries#^Footpad\|Thug 3]] | `8`       | `0`     | 0     |  1 |  `0/1` | 
-> 
+> ![[HumanThug2.png|profile right lp]] 
+`1/1` [[AdversariesTOR#^HighwayRobber|Robber]]: `  ` :FasHeart: `16`  ` ` :RaMuscleFat: *4* ` ` :RaBatwings: `4` ` ` :RaShield: *+0 / 2d*
+`1/1` [[AdversariesCON#^BlackUruk|Black Uruk]]: ` ` :FasHeart: `20`  ` ` :RaMuscleFat: *5* ` ` :RaBatwings: `5` ` ` :RaShield: *+2 / 2d*

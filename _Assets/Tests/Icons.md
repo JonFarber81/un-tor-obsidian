@@ -134,7 +134,7 @@ HomePage: https://nagoshiashumari.github.io/Rpg-Awesome/
  - :RaWolfHead: RaWolfHead
  - :RaWolfHowl: RaWolfHowl
 
-:LiAmphora:
+
 
 
 ## Electronics
@@ -557,3 +557,5 @@ HomePage: https://nagoshiashumari.github.io/Rpg-Awesome/
 #### Other useful icons
 :LiScale:
 :FasScroll:
+:LiAmphora:
+

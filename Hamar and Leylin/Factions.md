@@ -70,9 +70,9 @@ The Dwarves of Middle-earth are a proud and enduring people, known for their mas
 - **Exploration:** Some dwarves, like Hamar, are driven by a desire to uncover their people’s lost history, tracing ancient routes and way stations that connected their kingdoms of old.
 - **Guardians of Heritage:** The dwarves are fiercely protective of their relics and history, viewing intrusions into their ruins and mines as deeply offensive. This has made the Spider’s activities a direct threat to their legacy.
 
-## The Hollow Men
+## The Trollmen
 ### Background
-The Hollow Men are a mysterious group of shadowy figures operating in the darker corners of Eriador, including the Trollshaws. They are neither wholly brigands nor fully aligned with the Enemy, but something about their presence suggests a deeper and more insidious purpose. Their name comes from their gaunt appearance and the eerie silence with which they operate, leading many to believe they are cursed or otherwise touched by dark forces.
+The Trollmen are a mysterious group of shadowy figures operating in the darker corners of Eriador, including the Trollshaws. They are neither wholly brigands nor fully aligned with the Enemy, but something about their presence suggests a deeper and more insidious purpose. Their name comes from their gaunt appearance and the eerie silence with which they operate, leading many to believe they are cursed or otherwise touched by dark forces.
 
 Rumors about the Hollow Men suggest they were once a band of desperate outlaws who stumbled upon something ancient and corrupt within the ruins of the Trollshaws. Whatever they found has bound them to this region and warped their purpose, though their true motivations remain unclear.
 
