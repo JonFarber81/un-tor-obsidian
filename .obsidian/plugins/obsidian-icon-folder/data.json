@@ -83,5 +83,12 @@
   "Hamar and Leylin/NPCs/Rowan.md": {
     "iconName": "RaPlayer",
     "iconColor": "grey"
+  },
+  "Aldric/PCs/Aldric.md": {
+    "iconName": "RaPlayer"
+  },
+  "Aldric/NPCs/Haldar.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "green"
   }
 }
