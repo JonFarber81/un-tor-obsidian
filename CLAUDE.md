@@ -78,6 +78,30 @@ When writing or updating any reference note, add a `[[PDF#page=N]]` link at the 
 
 ---
 
+## Obsidian CLI
+
+The Obsidian CLI is available at `/Applications/Obsidian.app/Contents/MacOS/obsidian-cli` and connects directly to the running Obsidian app. **Use it whenever possible** instead of raw file tools — it is vault-aware, resolves wikilinks, and handles YAML properties correctly.
+
+Key commands (always pass `vault="un-tor-obsidian"` to target this vault):
+
+```bash
+OBS="/Applications/Obsidian.app/Contents/MacOS/obsidian-cli vault=un-tor-obsidian"
+
+$OBS read path="Hamar and Leylin/PCs/Hamar.md"       # read a file
+$OBS search "shadow"                                   # search vault text
+$OBS files                                             # list all files
+$OBS property:read path="..." name="Shadow"           # read a frontmatter property
+$OBS property:set path="..." name="Shadow" value="4"  # update a frontmatter property
+$OBS create path="..." content="..."                   # create a new note
+$OBS append path="..." content="..."                   # append to a note
+$OBS backlinks file="Hamar"                            # find all links to a note
+$OBS links path="..."                                  # list outgoing links
+```
+
+Use `property:set` / `property:read` for all frontmatter changes rather than raw YAML edits. Use `search` before reading files to quickly locate relevant content.
+
+---
+
 ## How to Help
 
 When asked to help with this vault:
