@@ -59,10 +59,35 @@ The long fight of the Woodmen against the Hill of Sorcery has led them to exploi
 > Common choices: Axes, Spears, Bows, Hunting Spear
 
 > [!Council] Distinctive Features *(choose 2)*
-> Faithful · Hardy · Honourable · Keen-eyed · Patient · Rustic · True-hearted · Wary
+> - Faithful
+> - Hardy
+> - Honourable
+> - Keen-eyed
+> - Patient
+> - Rustic
+> - True-hearted
+> - Wary
 
 > [!Council] Languages & Names
 > **Language:** Common Tongue, with traces of an older Northman tongue. Names are plain and nature-themed.
 >
-> **Male:** Adso · Aldor · Baldor · Brego · Ceorl · Dunhere · Edwyn · Erdric · Ewald · Folkred · Gamel · Garulf · Grim · Hadric · Herubrand · Hrethric · Hunwald · Leidolf · Leofric · Mundric · Ordwine · Osmer · Ragnwald · Selmund · Stithulf · Weald · Wulfheard
-> **Female:** Aelswith · Bertha · Bergit · Cwenburg · Edith · Godgifu · Gytha · Hild · Hildwyn · Kenwyn · Leofwyn · Mildwyn · Sigwyn · Sunngifu · Wulfwyn · Wyn
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Adso | Aldor | Baldor | Brego |
+> | Ceorl | Dunhere | Edwyn | Erdric |
+> | Ewald | Folkred | Gamel | Garulf |
+> | Grim | Hadric | Herubrand | Hrethric |
+> | Hunwald | Leidolf | Leofric | Mundric |
+> | Ordwine | Osmer | Ragnwald | Selmund |
+> | Stithulf | Weald | Wulfheard | |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Aelswith | Bertha | Bergit | Cwenburg |
+> | Edith | Godgifu | Gytha | Hild |
+> | Hildwyn | Kenwyn | Leofwyn | Mildwyn |
+> | Sigwyn | Sunngifu | Wulfwyn | Wyn |

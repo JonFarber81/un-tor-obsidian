@@ -19,7 +19,7 @@ Beornings are tough to kill and fight like cornered animals: when they see their
 > [!Rolls] Attribute Array
 > Roll a Success die or choose one set:
 >
-> | Roll | Strength | Heart | Wits |
+> | Roll | Strg | Heart | Wits |
 > |------|----------|-------|------|
 > | 1    | 5        | 7     | 2    |
 > | 2    | 4        | 7     | 3    |
@@ -65,10 +65,36 @@ Beornings are tough to kill and fight like cornered animals: when they see their
 > Beornings sometimes forgo armour in favour of a *Skin-coat* (Cultural Virtue).
 
 > [!Council] Distinctive Features *(choose 2)*
-> Bold · Eager · Fierce · Generous · Honourable · Proud · Stern · Wilful
+> - Bold
+> - Eager
+> - Fierce
+> - Generous
+> - Honourable
+> - Proud
+> - Stern
+> - Wilful
 
 > [!Council] Languages & Names
 > **Language:** Common Tongue, preserving older words from a pre-Westron Northman dialect. Names are often strong-sounding, drawing on nature or battle imagery.
 >
-> **Male:** Aldfrith · Aldwin · Arfast · Beorn · Bericled · Ceorl · Cynemund · Ealdric · Egilmund · Eomund · Fastred · Frithbeald · Gilmund · Grimbeald · Grimund · Hrothgar · Hrothmund · Leofmund · Odda · Theoden · Theodric · Ulf · Ulfbert · Wulfgar · Wulfric
-> **Female:** Aelswith · Aldgyth · Beadohild · Beorhtwyn · Cwenburg · Dryhtwyn · Eadburg · Ealdgyth · Ealhswith · Friburg · Godgifu · Hildegyth · Hrothwyn · Leofgyth · Saewyth · Sigeborg · Waelburg · Wulfwyn
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Aldfrith | Aldwin | Arfast | Beorn |
+> | Bericled | Ceorl | Cynemund | Ealdric |
+> | Egilmund | Eomund | Fastred | Frithbeald |
+> | Gilmund | Grimbeald | Grimund | Hrothgar |
+> | Hrothmund | Leofmund | Odda | Theoden |
+> | Theodric | Ulf | Ulfbert | Wulfgar |
+> | Wulfric | | | |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Aelswith | Aldgyth | Beadohild | Beorhtwyn |
+> | Cwenburg | Dryhtwyn | Eadburg | Ealdgyth |
+> | Ealhswith | Friburg | Godgifu | Hildegyth |
+> | Hrothwyn | Leofgyth | Saewyth | Sigeborg |
+> | Waelburg | Wulfwyn | | |

@@ -68,10 +68,38 @@ The Elves find it hard to forget the taint of the Shadow once it has left its ma
 > Elven blades may have the *Keen* quality (see [[Weapons]]).
 
 > [!Council] Distinctive Features *(choose 2)*
-> Fair · Keen-eyed · Lordly · Merry · Patient · Subtle · Swift · Wary
+> - Fair
+> - Keen-eyed
+> - Lordly
+> - Merry
+> - Patient
+> - Subtle
+> - Swift
+> - Wary
 
 > [!Council] Languages & Names
 > **Language:** Common Speech, plus Sindarin (their native Elvish tongue). The Fair Folk have dwelt in the Westlands since before the drowning of Beleriand.
 >
-> **Male:** Amras · Aredhel · Beleganor · Belegon · Calanhir · Carmagor · Dagorhir · Durandir · Edrahil · Ellahir · Fincalan · Fuindor · Galdagor · Galdor · Hallas · Hirimlad · Ithildir · Lascalan · Linaith · Mablin · Malanor · Nauros · Orgalad · Pelegorn · Sargon
-> **Female:** Anórel · Aranel · Arbereth · Baraniel · Calanril · Celebrindal · Celenneth · Elanor · Elwing · Eraniel · Fimbrethil · Gloredhel · Idril · Irilde · Laurelin · Lórwend · Lothíriel · Meneloth · Moriel · Narieth · Narniel · Nimloth · Nimrodel · Níniel · Tarandis
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Amras | Aredhel | Beleganor | Belegon |
+> | Calanhir | Carmagor | Dagorhir | Durandir |
+> | Edrahil | Ellahir | Fincalan | Fuindor |
+> | Galdagor | Galdor | Hallas | Hirimlad |
+> | Ithildir | Lascalan | Linaith | Mablin |
+> | Malanor | Nauros | Orgalad | Pelegorn |
+> | Sargon | | | |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Anórel | Aranel | Arbereth | Baraniel |
+> | Calanril | Celebrindal | Celenneth | Elanor |
+> | Elwing | Eraniel | Fimbrethil | Gloredhel |
+> | Idril | Irilde | Laurelin | Lórwend |
+> | Lothíriel | Meneloth | Moriel | Narieth |
+> | Narniel | Nimloth | Nimrodel | Níniel |
+> | Tarandis | | | |

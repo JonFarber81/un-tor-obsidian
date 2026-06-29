@@ -73,11 +73,52 @@ Due to their reduced size, Hobbits cannot use larger weapons effectively.
 > Available weapons: Axe · Bow · Club · Cudgel · Dagger · Short Sword · Short Spear · Spear
 
 > [!Council] Distinctive Features *(choose 2)*
-> Eager · Fair-spoken · Faithful · Honourable · Inquisitive · Keen-eyed · Merry · Rustic
+> - Eager
+> - Fair-spoken
+> - Faithful
+> - Honourable
+> - Inquisitive
+> - Keen-eyed
+> - Merry
+> - Rustic
 
 > [!Council] Languages & Names
 > **Language:** Common Speech only, preserving a few words of a forgotten Hobbit tongue. First names are simple for men, floral or jewel-themed for women. Older families use more heroic-sounding names.
 >
-> **Male:** Andwise · Berilac · Bungo · Cottar · Doderic · Dudo · Erling · Fastred · Ferumbras · Folco · Gorhendad · Griffo · Halfred · Hamson · Ilberic · Isembold · Isengar · Longo · Marmadas · Marroc · Mungo · Odo · Orgulas · Otho · Posco · Reginard · Robin · Rudigar · Sadoc · Saradas · Tobold · Tolman
-> **Female:** Adaldrida · Amaranth · Asphodel · Belba · Bell · Berylla · Camellia · Daisy · Eglantine · Estella · Gilly · Hanna · Lily · Malva · Marigold · May · Melilot · Menegilda · Mentha · Mirabella · Myrtle · Pearl · Peony · Pervinca · Pimpernel · Primrose · Primula · Prisca · Rosamunda · Ruby · Salvia
-> **Family:** Baggins · Boffin · Bolger · Bracegirdle · Brandybuck · Brown · Bunce · Burrows · Cotton · Gamgee · Gardner · Goodbody · Grubb · Headstrong · Hornblower · Maggot · Noakes · Proudfoot · Puddifoot · Roper · Rumble · Sackville · Smallburrow · Took · Twofoot · Whitfoot
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Andwise | Berilac | Bungo | Cottar |
+> | Doderic | Dudo | Erling | Fastred |
+> | Ferumbras | Folco | Gorhendad | Griffo |
+> | Halfred | Hamson | Ilberic | Isembold |
+> | Isengar | Longo | Marmadas | Marroc |
+> | Mungo | Odo | Orgulas | Otho |
+> | Posco | Reginard | Robin | Rudigar |
+> | Sadoc | Saradas | Tobold | Tolman |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Adaldrida | Amaranth | Asphodel | Belba |
+> | Bell | Berylla | Camellia | Daisy |
+> | Eglantine | Estella | Gilly | Hanna |
+> | Lily | Malva | Marigold | May |
+> | Melilot | Menegilda | Mentha | Mirabella |
+> | Myrtle | Pearl | Peony | Pervinca |
+> | Pimpernel | Primrose | Primula | Prisca |
+> | Rosamunda | Ruby | Salvia | |
+>
+> **Family**
+>
+> | | | | |
+> |--|--|--|--|
+> | Baggins | Boffin | Bolger | Bracegirdle |
+> | Brandybuck | Brown | Bunce | Burrows |
+> | Cotton | Gamgee | Gardner | Goodbody |
+> | Grubb | Headstrong | Hornblower | Maggot |
+> | Noakes | Proudfoot | Puddifoot | Roper |
+> | Rumble | Sackville | Smallburrow | Took |
+> | Twofoot | Whitfoot | | |

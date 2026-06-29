@@ -64,10 +64,34 @@ While fond of the Sun, the Elves of Mirkwood find themselves at greater ease und
 > Typically light armour — Wood-elves favour speed over protection.
 
 > [!Council] Distinctive Features *(choose 2)*
-> Elusive · Fair · Hardy · Keen-eyed · Merry · Patient · Swift · Wary
+> - Elusive
+> - Fair
+> - Hardy
+> - Keen-eyed
+> - Merry
+> - Patient
+> - Swift
+> - Wary
 
 > [!Council] Languages & Names
 > **Language:** Silvan (their own tongue) and Sindarin. They speak the Common Tongue with a lilting forest accent.
 >
-> **Male:** Aegnor · Amroth · Arawin · Caldir · Celepharn · Daeron · Dolgrin · Galion · Galadhon · Lindir · Maeron · Malthoss · Orlin · Sadron · Taurion · Tindómë · Vírner
-> **Female:** Arasiel · Beriadanwen · Caladwen · Elenwen · Faewiel · Galwen · Idhriel · Laerindë · Lithiel · Lórindë · Míriel · Nariel · Nathiel · Néniel · Nessadel · Rhonel · Síriel
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Aegnor | Amroth | Arawin | Caldir |
+> | Celepharn | Daeron | Dolgrin | Galion |
+> | Galadhon | Lindir | Maeron | Malthoss |
+> | Orlin | Sadron | Taurion | Tindómë |
+> | Vírner | | | |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Arasiel | Beriadanwen | Caladwen | Elenwen |
+> | Faewiel | Galwen | Idhriel | Laerindë |
+> | Lithiel | Lórindë | Míriel | Nariel |
+> | Nathiel | Néniel | Nessadel | Rhonel |
+> | Síriel | | | |

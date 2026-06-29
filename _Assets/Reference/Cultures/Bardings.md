@@ -64,10 +64,38 @@ Stories tell that the Bardings lived under the shadow of a great Dragon for deca
 > Common choices: Swords, Bows, Spears, Mail Shirt
 
 > [!Council] Distinctive Features *(choose 2)*
-> Bold · Eager · Fair · Fierce · Generous · Proud · Tall · Wilful
+> - Bold
+> - Eager
+> - Fair
+> - Fierce
+> - Generous
+> - Proud
+> - Tall
+> - Wilful
 
 > [!Council] Languages & Names
 > **Language:** Dalish — an ancient form of the Common Speech. Names use one or two elements (e.g. *Dag* = Day, *Lif-stan* = Life Stone). Children often named after ancestors or to echo the father's name.
 >
-> **Male:** Aegir · Arn · Brandulf · Domarr · Egil · Erland · Farald · Finn · Gautarr · Hafgrim · Hjalmar · Ingolf · Jofur · Kolbeinn · Leiknir · Lomund · Munan · Nari · Nefstan · Ottarr · Ragnarr · Reinald · Sigmarr · Steinarr · Thorald · Torwald · Ulfarr · Unnarr · Vandil · Varinn
-> **Female:** Aldis · Asfrid · Bera · Bergdis · Dagmar · Eilif · Erna · Frida · Geira · Gudrun · Halla · Hild · Ingirun · Ingrith · Thora · Thordis · Thorhild · Ulfhild · Ulfrun · Una · Valdis · Vigdis · Walda
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Aegir | Arn | Brandulf | Domarr |
+> | Egil | Erland | Farald | Finn |
+> | Gautarr | Hafgrim | Hjalmar | Ingolf |
+> | Jofur | Kolbeinn | Leiknir | Lomund |
+> | Munan | Nari | Nefstan | Ottarr |
+> | Ragnarr | Reinald | Sigmarr | Steinarr |
+> | Thorald | Torwald | Ulfarr | Unnarr |
+> | Vandil | Varinn | | |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Aldis | Asfrid | Bera | Bergdis |
+> | Dagmar | Eilif | Erna | Frida |
+> | Geira | Gudrun | Halla | Hild |
+> | Ingirun | Ingrith | Thora | Thordis |
+> | Thorhild | Ulfhild | Ulfrun | Una |
+> | Valdis | Vigdis | Walda | |

@@ -71,10 +71,33 @@ The Rangers are devoted to fighting Sauron and his min- ions by an ancient tradi
 > Frugal Standard of Living means starting gear is minimal — earn better equipment through play.
 
 > [!Council] Distinctive Features *(choose 2)*
-> Bold · Forthright · Lordly · Proud · Secretive · Stern · True-hearted · Wary
+> - Bold
+> - Forthright
+> - Lordly
+> - Proud
+> - Secretive
+> - Stern
+> - True-hearted
+> - Wary
 
 > [!Council] Languages & Names
 > **Language:** Common Tongue and Sindarin. The Dúnedain preserve lore and names from the Elder Days of Númenór.
 >
-> **Male:** Arador · Arahad · Arahael · Aranarth · Aranuir · Aravir · Aravorn · Argonui · Arvegil · Arveleg · Dírhael · Dúnhirion · Halbarad · Haldar · Malvegil · Mandor · Valandur
-> **Female:** Gilraen · Ivorwen · Níniel · Rían · Aranel · Arien · Elriel · Fíriel · Moriel · Núneth · Orneth · Tariel · Vradiel
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Arador | Arahad | Arahael | Aranarth |
+> | Aranuir | Aravir | Aravorn | Argonui |
+> | Arvegil | Arveleg | Dírhael | Dúnhirion |
+> | Halbarad | Haldar | Malvegil | Mandor |
+> | Valandur | | | |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Gilraen | Ivorwen | Níniel | Rían |
+> | Aranel | Arien | Elriel | Fíriel |
+> | Moriel | Núneth | Orneth | Tariel |
+> | Vradiel | | | |

@@ -85,11 +85,6 @@ You bash your opponents with your shield, pushing them back — If your STRENGTH
 
 # Journeys
 
-### Shire Walks
-![[TOR_Starter_Set_The_Shire.pdf#page=12&rect=95,306,520,471|TOR_Starter_Set_The_Shire, p.10]]
-- Roll to determine outcome; roll twice if distance is > 50 miles (Bag End to Bree is ~80 miles)
-- Each player can roll Travel and reduce fatigue by 1 for each success. 
-
 ## Strider Mode
 
 Solo / duet play without a Loremaster. Full reference: **[[Strider Mode]]** · **[[Strider Mode - Lore Table]]**

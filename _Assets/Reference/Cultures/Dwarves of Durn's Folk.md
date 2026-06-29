@@ -72,10 +72,42 @@ Dwarves are shorter than Men, but their work as miners and smiths endows them wi
 > Full weapon list: Axes, Bows, Clubs, Daggers, Mattocks, Short Swords, Spears, Swords
 
 > [!Council] Distinctive Features *(choose 2)*
-> Cunning · Fierce · Lordly · Proud · Secretive · Stern · Wary · Wilful
+> - Cunning
+> - Fierce
+> - Lordly
+> - Proud
+> - Secretive
+> - Stern
+> - Wary
+> - Wilful
 
 > [!Council] Languages & Names
 > **Language:** Common Tongue, plus a secret Dwarvish tongue. Dwarves receive a true name at birth never revealed to outsiders; the name they use with others follows the tradition of their neighbours.
 >
-> **Male:** Ai · Anar · Beli · Bláin · Borin · Burin · Bruni · Farin · Flói · Frár · Frerin · Fróir · Ginar · Gróin · Grór · Hanar · Hepti · Iari · Lófar · Lóni · Náli · Nár · Niping · Nói · Nyrád · Ónar · Póri · Regin · Svior · Veig · Vidar
-> **Female:** Adís · Afrid · Agda · Bersa · Birna · Dagrún · Dís · Drífa · Edda · Elin · Fenja · Frida · Geira · Gísla · Hadda · Hón · Ida · Ilmr · Jóra · Kára · Kóna · Líf · Linhild · Már · Mist · Nál · Oda · Ósk · Rán · Rinda · Sefa · Syn · Tóra · Trana · Úlfrún · Virún · Yrr
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Ai | Anar | Beli | Bláin |
+> | Borin | Burin | Bruni | Farin |
+> | Flói | Frár | Frerin | Fróir |
+> | Ginar | Gróin | Grór | Hanar |
+> | Hepti | Iari | Lófar | Lóni |
+> | Náli | Nár | Niping | Nói |
+> | Nyrád | Ónar | Póri | Regin |
+> | Svior | Veig | Vidar | |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Adís | Afrid | Agda | Bersa |
+> | Birna | Dagrún | Dís | Drífa |
+> | Edda | Elin | Fenja | Frida |
+> | Geira | Gísla | Hadda | Hón |
+> | Ida | Ilmr | Jóra | Kára |
+> | Kóna | Líf | Linhild | Már |
+> | Mist | Nál | Oda | Ósk |
+> | Rán | Rinda | Sefa | Syn |
+> | Tóra | Trana | Úlfrún | Virún |
+> | Yrr | | | |

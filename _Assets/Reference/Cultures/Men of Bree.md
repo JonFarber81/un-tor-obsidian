@@ -66,11 +66,45 @@ aliases:
 > Common choices: Axes, Spears, Swords, Short Swords, Bows
 
 > [!Council] Distinctive Features *(choose 2)*
-> Cunning · Fair-spoken · Faithful · Generous · Inquisitive · Patient · Rustic · True-hearted
+> - Cunning
+> - Fair-spoken
+> - Faithful
+> - Generous
+> - Inquisitive
+> - Patient
+> - Rustic
+> - True-hearted
 
 > [!Council] Languages & Names
 > **Language:** Common Tongue, spoken in a local dialect. Names sound similar to Hobbit names to outside ears. Use both a given name and a family name.
 >
-> **Male:** Alfred · Artie · Bill · Bob · Carl · Ed · Fred · Giles · Herb · Larry · Nob · Oswald · Percy · Perry · Sid · Tom · Harry
-> **Female:** Daisy · Emma · Etta · Fay · Fern · Flora · Gert · Holly · Lily · Myrtle · Poppy · Rose · Sage · Tilly · Violet
-> **Family:** Appledore · Asterfire · Bellsap · Briarcleave · Butterbur · Cherryborn · Chesterstout · Droverwind · Ferny · Foxglow · Goatleaf · Hardybough · Heathertoes · Hedgedon · Kettlegrass · Lilyhawk · Mossburn · Mugworts · Oakstout · Pickthorn · Pollenroad · Rushlight · Shrubrose · Sweetroot · Thistlewool · Wayward
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Alfred | Artie | Bill | Bob |
+> | Carl | Ed | Fred | Giles |
+> | Herb | Larry | Nob | Oswald |
+> | Percy | Perry | Sid | Tom |
+> | Harry | | | |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Daisy | Emma | Etta | Fay |
+> | Fern | Flora | Gert | Holly |
+> | Lily | Myrtle | Poppy | Rose |
+> | Sage | Tilly | Violet | |
+>
+> **Family**
+>
+> | | | | |
+> |--|--|--|--|
+> | Appledore | Asterfire | Bellsap | Briarcleave |
+> | Butterbur | Cherryborn | Chesterstout | Droverwind |
+> | Ferny | Foxglow | Goatleaf | Hardybough |
+> | Heathertoes | Hedgedon | Kettlegrass | Lilyhawk |
+> | Mossburn | Mugworts | Oakstout | Pickthorn |
+> | Pollenroad | Rushlight | Shrubrose | Sweetroot |
+> | Thistlewool | Wayward | | |

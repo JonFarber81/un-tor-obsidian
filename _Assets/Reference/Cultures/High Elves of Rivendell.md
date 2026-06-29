@@ -70,10 +70,33 @@ The High Elves never really forget the mark that the Shadow leaves on their spir
 > Preferred: Swords (often *Keen*), Spears, Bows. See [[Weapons]].
 
 > [!Council] Distinctive Features *(choose 2)*
-> Fair · Keen-eyed · Lordly · Patient · Subtle · Swift · Wary · Wise
+> - Fair
+> - Keen-eyed
+> - Lordly
+> - Patient
+> - Subtle
+> - Swift
+> - Wary
+> - Wise
 
 > [!Council] Languages & Names
 > **Language:** Common Speech, Sindarin, and Quenya. The High Elves are among the most learned in Middle-earth, preserving the tongues of the Blessed Realm.
 >
-> **Male:** Aegnor · Amras · Amrod · Angrod · Aratan · Celeborn · Círdan · Curufin · Eärendil · Elrond · Erestor · Fëanor · Finrod · Galdor · Gildor · Glorfindel · Lindir · Maglor · Pengolodh · Rúmil
-> **Female:** Arwen · Celebrían · Elenwë · Elenwen · Galadriel · Idril · Lalwen · Lúthien · Míriel · Morwen · Nerdanel · Nimloth · Nimrodel · Níniel · Silmariën
+> **Male**
+>
+> | | | | |
+> |--|--|--|--|
+> | Aegnor | Amras | Amrod | Angrod |
+> | Aratan | Celeborn | Círdan | Curufin |
+> | Eärendil | Elrond | Erestor | Fëanor |
+> | Finrod | Galdor | Gildor | Glorfindel |
+> | Lindir | Maglor | Pengolodh | Rúmil |
+>
+> **Female**
+>
+> | | | | |
+> |--|--|--|--|
+> | Arwen | Celebrían | Elenwë | Elenwen |
+> | Galadriel | Idril | Lalwen | Lúthien |
+> | Míriel | Morwen | Nerdanel | Nimloth |
+> | Nimrodel | Níniel | Silmariën | |
