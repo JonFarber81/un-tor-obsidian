@@ -90,7 +90,19 @@ You bash your opponents with your shield, pushing them back — If your STRENGTH
 - Roll to determine outcome; roll twice if distance is > 50 miles (Bag End to Bree is ~80 miles)
 - Each player can roll Travel and reduce fatigue by 1 for each success. 
 
-## Strider
+## Strider Mode
+
+Solo / duet play without a Loremaster. Full reference: **[[Strider Mode]]** · **[[Strider Mode - Lore Table]]**
+
+Key differences at a glance:
+- Previous Experience: **15** (not 10)
+- Target Number: **18 − Attribute** (not 20)
+- Extra Distinctive Feature: **Strider** — Inspired on skill rolls while journeying
+- No Fellowship Focus; Fellowship Score still applies
+- New combat stance: **Skirmish** (ranged, mobile — see [[Strider Mode]])
+- Journey: no roles; use Solo Journey Events table directly
+- :TrGandalf: → Fortune Table · :TrEye: → Ill-Fortune Table · Telling Table for yes/no · [[Strider Mode - Lore Table|Lore Table]] for open questions
+
 ![[TOR_Strider_Mode.pdf#page=10&rect=73,249,297,420|TOR_Strider_Mode, p.10]]
 ![[TOR_Strider_Mode.pdf#page=7&rect=311,73,546,339|TOR_Strider_Mode, p.7]]
 

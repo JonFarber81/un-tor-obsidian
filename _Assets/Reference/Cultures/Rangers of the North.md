@@ -16,3 +16,40 @@ Some say that the lordship of the folk of Arnor is a thing of the past. Yet, the
 #### ALLEGIANCE OF THE DÚNEDAIN 
 The Rangers are devoted to fighting Sauron and his min- ions by an ancient tradition of war and strife. This obligation makes it harder for them to put their spirit at ease even when enjoying a respite from adventuring. 
 > During the Fellowship phase (not Yule) you recover a maximum number of Hope points equal to half your HEART score (rounding fractions up)
+
+---
+
+## Character Creation Stats
+> [[TOR_Core_Rules.pdf#page=50|Core Rules p.46]]
+
+> [!Rolls] Attribute Array
+> Assign these three values freely to **Strength / Heart / Wits**:
+> **5 · 4 · 5** *(total 14, then +1 to one attribute from Cultural Blessing)*
+>
+> *(Rangers add +1 to any one attribute at creation — see rulebook for exact base array)*
+
+> [!combat] Derived Stats
+> - **Endurance** = **20 + Strength**
+> - **Hope** = **10 + Heart**
+> - **Parry** = 10 + primary weapon skill + shield bonus
+> - **Standard of Living:** Poor
+
+> [!Council] Favoured Skills *(start with 1 free rank)*
+> - **Awareness** (Strength)
+> - **Stealth** (Wits)
+> - **Scan** (Wits)
+
+> [!Council] Cultural Virtues *(cost 1 AP each — [[TOR_Core_Rules.pdf#page=50|p.46]])*
+> | Virtue | Brief Effect |
+> |--------|-------------|
+> | Kings of Men | Cultural Blessing (free) |
+> | Dúnedain Endurance | Endurance base raised by +2 |
+> | Ranger of the North | Hunting and Scan rolls in Eriador wilderness are Favoured |
+> | Númenórean Lore | Lore rolls related to the ancient kingdoms are Favoured |
+> | Secret Ways | Know hidden paths; Explore to navigate Eriador is Favoured |
+> | Deadly Archery | Bows rolls are Favoured; once per combat, re-roll damage |
+
+> [!combat] Available Gear
+> All standard weapons and armour. No restrictions.
+> Common choices: Swords (sometimes *Keen*), Bows (Great Bow), Spears
+> Note: Poor Standard of Living means starting gear is minimal — earn through play.
