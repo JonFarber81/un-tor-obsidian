@@ -22,21 +22,37 @@ The High Elves never really forget the mark that the Shadow leaves on their spir
 > [[TOR_Rivendell.pdf#page=12]]
 
 > [!Rolls] Attribute Array
-> Assign these three values freely to **Strength / Heart / Wits**:
-> **3 · 5 · 6** *(total 14, then +1 to one attribute from Cultural Blessing)*
+> Roll a Success die or choose one set, then add +1 to any one Attribute (Cultural Blessing):
 >
-> *(High Elves add +1 to any attribute of choice at creation — see sourcebook)*
+> | Roll | Strength | Heart | Wits |
+> |------|----------|-------|------|
+> | 1    | 5        | 2     | 7    |
+> | 2    | 4        | 3     | 7    |
+> | 3    | 5        | 3     | 6    |
+> | 4    | 4        | 4     | 6    |
+> | 5    | 5        | 4     | 5    |
+> | 6    | 6        | 2     | 6    |
 
 > [!combat] Derived Stats
-> - **Endurance** = **20 + Strength**
-> - **Hope** = **10 + Heart**
-> - **Parry** = 10 + primary weapon skill + shield bonus
+> - **Endurance** = **22 + Strength**
+> - **Hope** = **6 + Heart**
+> - **Parry** = **Wits + 12**
 > - **Standard of Living:** Prosperous
 
-> [!Council] Favoured Skills *(start with 1 free rank)*
-> - **Lore** (Wits)
-> - **Healing** (Heart)
-> - **Courtesy** (Heart)
+> [!Council] Starting Skills
+> Copy these ranks to your sheet. Choose one **bolded** skill to mark as Favoured.
+>
+> | Strength | Rank | Heart | Rank | Wits | Rank |
+> |----------|------|-------|------|------|------|
+> | Awe | 2 | Enhearten | 1 | Persuade | 0 |
+> | Athletics | 2 | Travel | 0 | Stealth | 0 |
+> | **Awareness** | 3 | Insight | 0 | Scan | 0 |
+> | Hunting | 0 | **Healing** | 3 | Explore | 0 |
+> | Song | 2 | Courtesy | 1 | Riddle | 2 |
+> | Craft | 2 | Battle | 0 | Lore | 3 |
+>
+> *Favoured: **Awareness** or **Healing***
+> **Combat Proficiencies:** Spears or Swords · 2 ranks · plus choose one other · 1 rank
 
 > [!Council] Cultural Virtues *(cost 1 AP each — [[TOR_Rivendell.pdf#page=12]])*
 > | Virtue | Brief Effect |
@@ -47,7 +63,17 @@ The High Elves never really forget the mark that the Shadow leaves on their spir
 > | Foresight | Once per adventure, ask the GM/Oracle one yes/no question |
 > | High Speech | Courtesy with all Elves is Favoured; can speak Black Speech without harm |
 > | Last Homely House | When in Rivendell during FP, remove Shadow as if at Yule |
+> *(High Elves may also purchase any virtue from the Elves of Lindon list.)*
 
 > [!combat] Available Gear
 > All standard weapons and armour. High Elves may wield legendary blades.
 > Preferred: Swords (often *Keen*), Spears, Bows. See [[Weapons]].
+
+> [!Council] Distinctive Features *(choose 2)*
+> Fair · Keen-eyed · Lordly · Patient · Subtle · Swift · Wary · Wise
+
+> [!Council] Languages & Names
+> **Language:** Common Speech, Sindarin, and Quenya. The High Elves are among the most learned in Middle-earth, preserving the tongues of the Blessed Realm.
+>
+> **Male:** Aegnor · Amras · Amrod · Angrod · Aratan · Celeborn · Círdan · Curufin · Eärendil · Elrond · Erestor · Fëanor · Finrod · Galdor · Gildor · Glorfindel · Lindir · Maglor · Pengolodh · Rúmil
+> **Female:** Arwen · Celebrían · Elenwë · Elenwen · Galadriel · Idril · Lalwen · Lúthien · Míriel · Morwen · Nerdanel · Nimloth · Nimrodel · Níniel · Silmariën

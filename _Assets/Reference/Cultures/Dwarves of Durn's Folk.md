@@ -25,26 +25,37 @@ Dwarves are shorter than Men, but their work as miners and smiths endows them wi
 > [[TOR_Core_Rules.pdf#page=42|Core Rules p.38]]
 
 > [!Rolls] Attribute Array
-> Assign these three values freely to **Strength / Heart / Wits**:
-> **7 · 2 · 5** *(total 14)*
-> 
-> | Attribute | Score | TN |
-> |-----------|-------|----|
-> | Strength | 7 | 11 |
-> | Heart | 2 | 16 |
-> | Wits | 5 | 13 |
-> *(shown as the most common allocation — STR-focused)*
+> Roll a Success die or choose one set:
+>
+> | Roll | Strength | Heart | Wits |
+> |------|----------|-------|------|
+> | 1    | 7        | 2     | 5    |
+> | 2    | 7        | 3     | 4    |
+> | 3    | 6        | 3     | 5    |
+> | 4    | 6        | 4     | 4    |
+> | 5    | 5        | 4     | 5    |
+> | 6    | 6        | 2     | 6    |
 
 > [!combat] Derived Stats
-> - **Endurance** = **22 + Strength** *(e.g. STR 7 → Endurance 29)*
-> - **Hope** = **10 + Heart** *(e.g. HRT 2 → Hope 12)*
-> - **Parry** = 10 + primary weapon skill + shield bonus
+> - **Endurance** = **22 + Strength**
+> - **Hope** = **8 + Heart**
+> - **Parry** = **Wits + 10**
 > - **Standard of Living:** Prosperous
 
-> [!Council] Favoured Skills *(start with 1 free rank)*
-> - **Awe** (Strength)
-> - **Craft** (Strength)
-> - **Travel** (Heart)
+> [!Council] Starting Skills
+> Copy these ranks to your sheet. Choose one **bolded** skill to mark as Favoured.
+>
+> | Strength | Rank | Heart | Rank | Wits | Rank |
+> |----------|------|-------|------|------|------|
+> | Awe | 2 | Enhearten | 0 | Persuade | 0 |
+> | Athletics | 1 | **Travel** | 3 | Stealth | 0 |
+> | Awareness | 0 | Insight | 0 | Scan | 3 |
+> | Hunting | 0 | Healing | 0 | Explore | 2 |
+> | Song | 1 | Courtesy | 1 | Riddle | 2 |
+> | **Craft** | 2 | Battle | 1 | Lore | 1 |
+>
+> *Favoured: **Travel** or **Craft***
+> **Combat Proficiencies:** Axes or Swords · 2 ranks · plus choose one other · 1 rank
 
 > [!Council] Cultural Virtues *(cost 1 AP each — [[TOR_Core_Rules.pdf#page=42|p.38]])*
 > | Virtue | Brief Effect |
@@ -59,3 +70,12 @@ Dwarves are shorter than Men, but their work as miners and smiths endows them wi
 > [!combat] Gear Restrictions — NAUGRIM
 > Cannot use: **Great Bow · Great Spear · Great Shield**
 > Full weapon list: Axes, Bows, Clubs, Daggers, Mattocks, Short Swords, Spears, Swords
+
+> [!Council] Distinctive Features *(choose 2)*
+> Cunning · Fierce · Lordly · Proud · Secretive · Stern · Wary · Wilful
+
+> [!Council] Languages & Names
+> **Language:** Common Tongue, plus a secret Dwarvish tongue. Dwarves receive a true name at birth never revealed to outsiders; the name they use with others follows the tradition of their neighbours.
+>
+> **Male:** Ai · Anar · Beli · Bláin · Borin · Burin · Bruni · Farin · Flói · Frár · Frerin · Fróir · Ginar · Gróin · Grór · Hanar · Hepti · Iari · Lófar · Lóni · Náli · Nár · Niping · Nói · Nyrád · Ónar · Póri · Regin · Svior · Veig · Vidar
+> **Female:** Adís · Afrid · Agda · Bersa · Birna · Dagrún · Dís · Drífa · Edda · Elin · Fenja · Frida · Geira · Gísla · Hadda · Hón · Ida · Ilmr · Jóra · Kára · Kóna · Líf · Linhild · Már · Mist · Nál · Oda · Ósk · Rán · Rinda · Sefa · Syn · Tóra · Trana · Úlfrún · Virún · Yrr

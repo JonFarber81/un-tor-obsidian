@@ -21,21 +21,37 @@ The Elves find it hard to forget the taint of the Shadow once it has left its ma
 > [[TOR_Core_Rules.pdf#page=50|Core Rules p.46]]
 
 > [!Rolls] Attribute Array
-> Assign these three values freely to **Strength / Heart / Wits**:
-> **4 · 4 · 6** *(total 14)*
+> Roll a Success die or choose one set:
 >
-> *(Elves of Lindon typically invest in Wits — see rulebook for exact array)*
+> | Roll | Strength | Heart | Wits |
+> |------|----------|-------|------|
+> | 1    | 5        | 2     | 7    |
+> | 2    | 4        | 3     | 7    |
+> | 3    | 5        | 3     | 6    |
+> | 4    | 4        | 4     | 6    |
+> | 5    | 5        | 4     | 5    |
+> | 6    | 6        | 2     | 6    |
 
 > [!combat] Derived Stats
 > - **Endurance** = **20 + Strength**
-> - **Hope** = **10 + Heart**
-> - **Parry** = 10 + primary weapon skill + shield bonus
-> - **Standard of Living:** Common
+> - **Hope** = **8 + Heart**
+> - **Parry** = **Wits + 12**
+> - **Standard of Living:** Frugal
 
-> [!Council] Favoured Skills *(start with 1 free rank)*
-> - **Song** (Strength)
-> - **Lore** (Wits)
-> - **Travel** (Heart)
+> [!Council] Starting Skills
+> Copy these ranks to your sheet. Choose one **bolded** skill to mark as Favoured.
+>
+> | Strength | Rank | Heart | Rank | Wits | Rank |
+> |----------|------|-------|------|------|------|
+> | Awe | 2 | Enhearten | 1 | Persuade | 0 |
+> | Athletics | 2 | Travel | 0 | Stealth | 3 |
+> | Awareness | 2 | Insight | 0 | Scan | 0 |
+> | Hunting | 0 | Healing | 1 | Explore | 0 |
+> | **Song** | 2 | Courtesy | 0 | Riddle | 0 |
+> | Craft | 2 | Battle | 0 | **Lore** | 3 |
+>
+> *Favoured: **Song** or **Lore***
+> **Combat Proficiencies:** Bows or Spears · 2 ranks · plus choose one other · 1 rank
 
 > [!Council] Cultural Virtues *(cost 1 AP each — [[TOR_Core_Rules.pdf#page=50|p.46]])*
 > | Virtue | Brief Effect |
@@ -50,3 +66,12 @@ The Elves find it hard to forget the taint of the Shadow once it has left its ma
 > [!combat] Available Gear
 > All standard weapons and armour. Preferred: Bows, Swords, Spears.
 > Elven blades may have the *Keen* quality (see [[Weapons]]).
+
+> [!Council] Distinctive Features *(choose 2)*
+> Fair · Keen-eyed · Lordly · Merry · Patient · Subtle · Swift · Wary
+
+> [!Council] Languages & Names
+> **Language:** Common Speech, plus Sindarin (their native Elvish tongue). The Fair Folk have dwelt in the Westlands since before the drowning of Beleriand.
+>
+> **Male:** Amras · Aredhel · Beleganor · Belegon · Calanhir · Carmagor · Dagorhir · Durandir · Edrahil · Ellahir · Fincalan · Fuindor · Galdagor · Galdor · Hallas · Hirimlad · Ithildir · Lascalan · Linaith · Mablin · Malanor · Nauros · Orgalad · Pelegorn · Sargon
+> **Female:** Anórel · Aranel · Arbereth · Baraniel · Calanril · Celebrindal · Celenneth · Elanor · Elwing · Eraniel · Fimbrethil · Gloredhel · Idril · Irilde · Laurelin · Lórwend · Lothíriel · Meneloth · Moriel · Narieth · Narniel · Nimloth · Nimrodel · Níniel · Tarandis

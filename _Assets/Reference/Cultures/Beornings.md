@@ -17,32 +17,58 @@ Beornings are tough to kill and fight like cornered animals: when they see their
 > [[TOR_Peoples_of_Wilderland.pdf#page=2]]
 
 > [!Rolls] Attribute Array
-> Assign these three values freely to **Strength / Heart / Wits**:
-> **6 · 4 · 4** *(total 14)*
+> Roll a Success die or choose one set:
 >
-> *(Beornings lean towards Strength; see sourcebook for exact array)*
+> | Roll | Strength | Heart | Wits |
+> |------|----------|-------|------|
+> | 1    | 5        | 7     | 2    |
+> | 2    | 4        | 7     | 3    |
+> | 3    | 5        | 6     | 3    |
+> | 4    | 4        | 6     | 4    |
+> | 5    | 5        | 5     | 4    |
+> | 6    | 6        | 6     | 2    |
 
 > [!combat] Derived Stats
-> - **Endurance** = **20 + Strength**
-> - **Hope** = **10 + Heart**
-> - **Parry** = 10 + primary weapon skill + shield bonus
+> - **Endurance** = **22 + Strength**
+> - **Hope** = **6 + Heart**
+> - **Parry** = **Wits + 12**
 > - **Standard of Living:** Common
 
-> [!Council] Favoured Skills *(start with 1 free rank)*
-> - **Athletics** (Strength)
-> - **Hunting** (Strength)
-> - **Awareness** (Strength)
+> [!Council] Starting Skills
+> Copy these ranks to your sheet. Choose one **bolded** skill to mark as Favoured.
+>
+> | Strength | Rank | Heart | Rank | Wits | Rank |
+> |----------|------|-------|------|------|------|
+> | Awe | 1 | Enhearten | 2 | Persuade | 0 |
+> | **Athletics** | 3 | Travel | 1 | Stealth | 0 |
+> | Awareness | 2 | Insight | 0 | **Scan** | 2 |
+> | Hunting | 2 | Healing | 1 | Explore | 1 |
+> | Song | 0 | Courtesy | 0 | Riddle | 0 |
+> | Craft | 1 | Battle | 2 | Lore | 0 |
+>
+> *Favoured: **Athletics** or **Scan***
+> **Combat Proficiencies:** Axes or Spears · 2 ranks · plus choose one other · 1 rank
 
-> [!Council] Cultural Virtues *(cost 1 AP each — see sourcebook)*
+> [!Council] Cultural Virtues *(cost 1 AP each — [[TOR_Peoples_of_Wilderland.pdf#page=4]])*
 > | Virtue | Brief Effect |
 > |--------|-------------|
 > | Furious | Cultural Blessing (free) |
-> | Skin-changer | Once per adventure, take the form of a great bear |
-> | Beorn's Chosen | Gain (1d) when fighting Orcs or Wargs in the Wild |
-> | Great-limbed | Endurance base raised by +2 |
-> | Swift Runner | Athletics rolls are Favoured when moving through wilderness |
-> | Keeper of Bees | Recovery rolls during Fellowship Phase are Favoured |
+> | Beorn's Enchantment | Translate animal communication; animals won't attack you unprovoked |
+> | Brother to Bears | Once per combat, enter bear rage — gain (1d) on attacks and Protection |
+> | Great Strength | Add your Strength score to your Encumbrance limit |
+> | Skin-coat | Wear a bear pelt instead of armour; Protection 3d, Load 12 |
+> | Splitting Blow | When you roll at least one 6 on a damage roll, deal +3 damage |
+> | Twice-baked Honey-cakes | You can bake Beorn's cakes; eating one restores 3 Endurance |
 
 > [!combat] Available Gear
-> All standard weapons and armour. Common choices: Great Axes, Spears, Bows
-> *(Beornings typically avoid heavy armour — see sourcebook for restrictions)*
+> All standard weapons and armour. Common choices: Great Axes, Spears, Bows.
+> Beornings sometimes forgo armour in favour of a *Skin-coat* (Cultural Virtue).
+
+> [!Council] Distinctive Features *(choose 2)*
+> Bold · Eager · Fierce · Generous · Honourable · Proud · Stern · Wilful
+
+> [!Council] Languages & Names
+> **Language:** Common Tongue, preserving older words from a pre-Westron Northman dialect. Names are often strong-sounding, drawing on nature or battle imagery.
+>
+> **Male:** Aldfrith · Aldwin · Arfast · Beorn · Bericled · Ceorl · Cynemund · Ealdric · Egilmund · Eomund · Fastred · Frithbeald · Gilmund · Grimbeald · Grimund · Hrothgar · Hrothmund · Leofmund · Odda · Theoden · Theodric · Ulf · Ulfbert · Wulfgar · Wulfric
+> **Female:** Aelswith · Aldgyth · Beadohild · Beorhtwyn · Cwenburg · Dryhtwyn · Eadburg · Ealdgyth · Ealhswith · Friburg · Godgifu · Hildegyth · Hrothwyn · Leofgyth · Saewyth · Sigeborg · Waelburg · Wulfwyn

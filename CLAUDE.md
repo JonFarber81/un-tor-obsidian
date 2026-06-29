@@ -52,6 +52,19 @@ New Company/            # Blank campaign template — copy for new campaigns
 
 **PDF references** use the PDF++ plugin syntax to embed page ranges from rulebooks. When adding PDF-backed reference notes, store the PDF in `_Assets/PDFs/` and link by filename.
 
+**Always link to source PDFs** when referencing rules, culture sheets, callings, or any content from a sourcebook. Use the PDF++ inline link format:
+- Plain page link: `[[TOR_Core_Rules.pdf#page=42|Core Rules p.38]]`
+- Embedded excerpt: `![[TOR_Core_Rules.pdf#page=42&rect=72,454,301,597|label]]`
+
+Known PDFs in `_Assets/PDFs/official/`:
+- `TOR_Core_Rules.pdf` — main rulebook (cultures: Bardings p.36, Dwarves p.38, Hobbits p.42, Men of Bree p.40, Rangers p.46, Elves of Lindon p.46)
+- `TOR_Peoples_of_Wilderland.pdf` — Beornings p.2, Elves of Mirkwood p.5, Woodmen p.8
+- `TOR_Rivendell.pdf` — High Elves of Rivendell p.10
+- `TOR_Strider_Mode.pdf` — solo/oracle mechanics
+- Other supplements: `TOR_Realms_of_the_Three_Rings.pdf`, `TOR_Moria.pdf`, `TOR_Hobbit_Tales.pdf`, etc.
+
+When writing or updating any reference note, add a `[[PDF#page=N]]` link at the top and use page links inline wherever a rule is cited. If you don't know the page number, read the relevant PDF to find it before writing the note.
+
 ---
 
 ## What Will Be Added Over Time

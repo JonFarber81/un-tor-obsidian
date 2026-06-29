@@ -23,21 +23,37 @@ The Rangers are devoted to fighting Sauron and his min- ions by an ancient tradi
 > [[TOR_Core_Rules.pdf#page=50|Core Rules p.46]]
 
 > [!Rolls] Attribute Array
-> Assign these three values freely to **Strength / Heart / Wits**:
-> **5 · 4 · 5** *(total 14, then +1 to one attribute from Cultural Blessing)*
+> Roll a Success die or choose one set, then add +1 to any one Attribute (Cultural Blessing):
 >
-> *(Rangers add +1 to any one attribute at creation — see rulebook for exact base array)*
+> | Roll | Strength | Heart | Wits |
+> |------|----------|-------|------|
+> | 1    | 7        | 5     | 2    |
+> | 2    | 7        | 4     | 3    |
+> | 3    | 6        | 5     | 3    |
+> | 4    | 6        | 4     | 4    |
+> | 5    | 5        | 5     | 4    |
+> | 6    | 6        | 6     | 2    |
 
 > [!combat] Derived Stats
 > - **Endurance** = **20 + Strength**
-> - **Hope** = **10 + Heart**
-> - **Parry** = 10 + primary weapon skill + shield bonus
-> - **Standard of Living:** Poor
+> - **Hope** = **6 + Heart**
+> - **Parry** = **Wits + 14**
+> - **Standard of Living:** Frugal
 
-> [!Council] Favoured Skills *(start with 1 free rank)*
-> - **Awareness** (Strength)
-> - **Stealth** (Wits)
-> - **Scan** (Wits)
+> [!Council] Starting Skills
+> Copy these ranks to your sheet. Choose one **bolded** skill to mark as Favoured.
+>
+> | Strength | Rank | Heart | Rank | Wits | Rank |
+> |----------|------|-------|------|------|------|
+> | Awe | 2 | Enhearten | 1 | Persuade | 0 |
+> | Athletics | 1 | Travel | 3 | Stealth | 2 |
+> | Awareness | 2 | Insight | 1 | Scan | 3 |
+> | **Hunting** | 3 | Healing | 1 | Explore | 2 |
+> | Song | 0 | Courtesy | 0 | Riddle | 0 |
+> | Craft | 0 | Battle | 1 | **Lore** | 2 |
+>
+> *Favoured: **Hunting** or **Lore***
+> **Combat Proficiencies:** Spears or Swords · 2 ranks · plus choose one other · 1 rank
 
 > [!Council] Cultural Virtues *(cost 1 AP each — [[TOR_Core_Rules.pdf#page=50|p.46]])*
 > | Virtue | Brief Effect |
@@ -52,4 +68,13 @@ The Rangers are devoted to fighting Sauron and his min- ions by an ancient tradi
 > [!combat] Available Gear
 > All standard weapons and armour. No restrictions.
 > Common choices: Swords (sometimes *Keen*), Bows (Great Bow), Spears
-> Note: Poor Standard of Living means starting gear is minimal — earn through play.
+> Frugal Standard of Living means starting gear is minimal — earn better equipment through play.
+
+> [!Council] Distinctive Features *(choose 2)*
+> Bold · Forthright · Lordly · Proud · Secretive · Stern · True-hearted · Wary
+
+> [!Council] Languages & Names
+> **Language:** Common Tongue and Sindarin. The Dúnedain preserve lore and names from the Elder Days of Númenór.
+>
+> **Male:** Arador · Arahad · Arahael · Aranarth · Aranuir · Aravir · Aravorn · Argonui · Arvegil · Arveleg · Dírhael · Dúnhirion · Halbarad · Haldar · Malvegil · Mandor · Valandur
+> **Female:** Gilraen · Ivorwen · Níniel · Rían · Aranel · Arien · Elriel · Fíriel · Moriel · Núneth · Orneth · Tariel · Vradiel

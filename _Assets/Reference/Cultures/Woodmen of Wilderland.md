@@ -12,23 +12,39 @@ The long fight of the Woodmen against the Hill of Sorcery has led them to exploi
 > [[TOR_Peoples_of_Wilderland.pdf#page=8]]
 
 > [!Rolls] Attribute Array
-> Assign these three values freely to **Strength / Heart / Wits**:
-> **5 · 4 · 5** *(total 14)*
+> Roll a Success die or choose one set:
 >
-> *(Woodmen are versatile survivalists — see sourcebook for exact array)*
+> | Roll | Strength | Heart | Wits |
+> |------|----------|-------|------|
+> | 1    | 2        | 5     | 7    |
+> | 2    | 3        | 4     | 7    |
+> | 3    | 3        | 5     | 6    |
+> | 4    | 4        | 4     | 6    |
+> | 5    | 4        | 5     | 5    |
+> | 6    | 2        | 6     | 6    |
 
 > [!combat] Derived Stats
-> - **Endurance** = **20 + Strength**
-> - **Hope** = **10 + Heart**
-> - **Parry** = 10 + primary weapon skill + shield bonus (+2 in forests)
+> - **Endurance** = **22 + Strength**
+> - **Hope** = **8 + Heart**
+> - **Parry** = **Wits + 10** *(+2 additional when fighting in a forest — Wood-goer)*
 > - **Standard of Living:** Frugal
 
-> [!Council] Favoured Skills *(start with 1 free rank)*
-> - **Hunting** (Strength)
-> - **Stealth** (Wits)
-> - **Craft** (Strength)
+> [!Council] Starting Skills
+> Copy these ranks to your sheet. Choose one **bolded** skill to mark as Favoured.
+>
+> | Strength | Rank | Heart | Rank | Wits | Rank |
+> |----------|------|-------|------|------|------|
+> | Awe | 0 | Enhearten | 1 | Persuade | 0 |
+> | Athletics | 1 | Travel | 2 | Stealth | 2 |
+> | Awareness | 2 | Insight | 0 | Scan | 1 |
+> | **Hunting** | 3 | **Healing** | 2 | Explore | 1 |
+> | Song | 0 | Courtesy | 0 | Riddle | 0 |
+> | Craft | 2 | Battle | 1 | Lore | 1 |
+>
+> *Favoured: **Hunting** or **Healing***
+> **Combat Proficiencies:** Axes or Bows · 2 ranks · plus choose one other · 1 rank
 
-> [!Council] Cultural Virtues *(cost 1 AP each — see sourcebook)*
+> [!Council] Cultural Virtues *(cost 1 AP each — [[TOR_Peoples_of_Wilderland.pdf#page=10]])*
 > | Virtue | Brief Effect |
 > |--------|-------------|
 > | Wood-goer | Cultural Blessing (free) |
@@ -41,3 +57,12 @@ The long fight of the Woodmen against the Hill of Sorcery has led them to exploi
 > [!combat] Available Gear
 > All standard weapons and armour. No restrictions.
 > Common choices: Axes, Spears, Bows, Hunting Spear
+
+> [!Council] Distinctive Features *(choose 2)*
+> Faithful · Hardy · Honourable · Keen-eyed · Patient · Rustic · True-hearted · Wary
+
+> [!Council] Languages & Names
+> **Language:** Common Tongue, with traces of an older Northman tongue. Names are plain and nature-themed.
+>
+> **Male:** Adso · Aldor · Baldor · Brego · Ceorl · Dunhere · Edwyn · Erdric · Ewald · Folkred · Gamel · Garulf · Grim · Hadric · Herubrand · Hrethric · Hunwald · Leidolf · Leofric · Mundric · Ordwine · Osmer · Ragnwald · Selmund · Stithulf · Weald · Wulfheard
+> **Female:** Aelswith · Bertha · Bergit · Cwenburg · Edith · Godgifu · Gytha · Hild · Hildwyn · Kenwyn · Leofwyn · Mildwyn · Sigwyn · Sunngifu · Wulfwyn · Wyn

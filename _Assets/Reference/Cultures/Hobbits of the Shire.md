@@ -26,26 +26,37 @@ Due to their reduced size, Hobbits cannot use larger weapons effectively.
 > [[TOR_Core_Rules.pdf#page=46|Core Rules p.42]]
 
 > [!Rolls] Attribute Array
-> Assign these three values freely to **Strength / Heart / Wits**:
-> **2 · 6 · 6** *(total 14)*
+> Roll a Success die or choose one set:
 >
-> | Attribute | Score | TN |
-> |-----------|-------|----|
-> | Strength | 2 | 16 |
-> | Heart | 6 | 12 |
-> | Wits | 6 | 12 |
-> *(shown as typical allocation — most Hobbits invest in Heart and Wits)*
+> | Roll | Strength | Heart | Wits |
+> |------|----------|-------|------|
+> | 1    | 3        | 6     | 5    |
+> | 2    | 3        | 7     | 4    |
+> | 3    | 2        | 7     | 5    |
+> | 4    | 4        | 6     | 4    |
+> | 5    | 4        | 5     | 5    |
+> | 6    | 2        | 6     | 6    |
 
 > [!combat] Derived Stats
-> - **Endurance** = **18 + Strength** *(e.g. STR 2 → Endurance 20)*
-> - **Hope** = **10 + Heart** *(e.g. HRT 6 → Hope 16)*
-> - **Parry** = 10 + primary weapon skill + shield bonus + **+2 vs. large foes** (Small Folk)
+> - **Endurance** = **18 + Strength**
+> - **Hope** = **10 + Heart**
+> - **Parry** = **Wits + 12** *(+2 additional vs. larger foes — Small Folk)*
 > - **Standard of Living:** Common
 
-> [!Council] Favoured Skills *(start with 1 free rank)*
-> - **Awareness** (Strength)
-> - **Stealth** (Wits)
-> - **Craft** (Strength)
+> [!Council] Starting Skills
+> Copy these ranks to your sheet. Choose one **bolded** skill to mark as Favoured.
+>
+> | Strength | Rank | Heart | Rank | Wits | Rank |
+> |----------|------|-------|------|------|------|
+> | Awe | 0 | Enhearten | 0 | Persuade | 2 |
+> | Athletics | 0 | Travel | 0 | **Stealth** | 3 |
+> | Awareness | 2 | Insight | 2 | Scan | 0 |
+> | Hunting | 0 | Healing | 1 | Explore | 0 |
+> | Song | 2 | **Courtesy** | 2 | Riddle | 3 |
+> | Craft | 1 | Battle | 0 | Lore | 0 |
+>
+> *Favoured: **Stealth** or **Courtesy***
+> **Combat Proficiencies:** Bows or Swords · 2 ranks · plus choose one other · 1 rank
 
 > [!Council] Cultural Virtues *(cost 1 AP each — [[TOR_Core_Rules.pdf#page=46|p.42]])*
 > | Virtue | Brief Effect |
@@ -60,3 +71,13 @@ Due to their reduced size, Hobbits cannot use larger weapons effectively.
 > [!combat] Gear Restrictions — HALFLINGS
 > Cannot use: **Great Shield**
 > Available weapons: Axe · Bow · Club · Cudgel · Dagger · Short Sword · Short Spear · Spear
+
+> [!Council] Distinctive Features *(choose 2)*
+> Eager · Fair-spoken · Faithful · Honourable · Inquisitive · Keen-eyed · Merry · Rustic
+
+> [!Council] Languages & Names
+> **Language:** Common Speech only, preserving a few words of a forgotten Hobbit tongue. First names are simple for men, floral or jewel-themed for women. Older families use more heroic-sounding names.
+>
+> **Male:** Andwise · Berilac · Bungo · Cottar · Doderic · Dudo · Erling · Fastred · Ferumbras · Folco · Gorhendad · Griffo · Halfred · Hamson · Ilberic · Isembold · Isengar · Longo · Marmadas · Marroc · Mungo · Odo · Orgulas · Otho · Posco · Reginard · Robin · Rudigar · Sadoc · Saradas · Tobold · Tolman
+> **Female:** Adaldrida · Amaranth · Asphodel · Belba · Bell · Berylla · Camellia · Daisy · Eglantine · Estella · Gilly · Hanna · Lily · Malva · Marigold · May · Melilot · Menegilda · Mentha · Mirabella · Myrtle · Pearl · Peony · Pervinca · Pimpernel · Primrose · Primula · Prisca · Rosamunda · Ruby · Salvia
+> **Family:** Baggins · Boffin · Bolger · Bracegirdle · Brandybuck · Brown · Bunce · Burrows · Cotton · Gamgee · Gardner · Goodbody · Grubb · Headstrong · Hornblower · Maggot · Noakes · Proudfoot · Puddifoot · Roper · Rumble · Sackville · Smallburrow · Took · Twofoot · Whitfoot
