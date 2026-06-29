@@ -25,11 +25,11 @@ flowchart TD
     B -->|Reasonable — nothing lost by helping| C[Resistance 3]
     B -->|Bold — Company profits more than the NPC| D[Resistance 6]
     B -->|Outrageous — dangerous or no reward| E[Resistance 9]
-    C & D & E --> F[2. INTRODUCTION\nSpokesperson makes a Skill roll]
+    C & D & E --> F["INTRODUCTION<br/>Spokesperson makes a Skill roll"]
     F --> G{Roll result}
     G -->|Success| H["Time Limit = Resistance + 1 per ⚔ icon"]
-    G -->|Failure| I["Time Limit = Resistance\n⚠ Ends in Disaster if Resistance not met"]
-    H & I --> J[3. INTERACTION\nAccumulate successes vs. Resistance]
+    G -->|Failure| I["Time Limit = Resistance<br/>⚠ Ends in Disaster if Resistance not met"]
+    H & I --> J["INTERACTION<br/>Accumulate successes vs. Resistance"]
     J --> K{Audience attitude}
     K -->|Reluctant| L["lose (1d) on all rolls"]
     K -->|Open| M[No modifier]

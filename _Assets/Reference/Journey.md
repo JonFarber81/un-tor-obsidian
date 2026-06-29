@@ -15,7 +15,7 @@ A Journey is more than travel — it's a dangerous, meaningful part of each Adve
 flowchart TD
     A[1. Set Journey Path] --> B[Guide makes Marching Test — Travel]
     B --> C{Travel roll result}
-    C -->|Failure| D["Event: 1 hex away\n(2 in Summer/Spring)"]
+    C -->|Failure| D["Event: 1 hex away<br/>(2 in Summer/Spring)"]
     C -->|Success| E["Event: 3 hexes + 1/success icon"]
     D --> F[Event Resolution]
     E --> F

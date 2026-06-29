@@ -10,15 +10,15 @@ The Fellowship Phase is the **player-driven downtime** between Adventuring Phase
 
 ```mermaid
 flowchart TD
-    A[1. SET DURATION\n1 week to a full season] --> B[2. CHOOSE DESTINATION\nA safe haven the Company has visited]
-    B --> C[3. PERFORM UPDATES]
+    A["SET DURATION<br/>1 week to a full season"] --> B["CHOOSE DESTINATION<br/>A safe haven the Company has visited"]
+    B --> C[PERFORM UPDATES]
     C --> D[Spend Skill Points → Training]
     C --> E[Spend Adventure Points → Growth]
-    C --> F[Spiritual Recovery\nHope + Shadow removal]
+    C --> F["Spiritual Recovery<br/>Hope + Shadow removal"]
     D & E & F --> G[4. CHOOSE UNDERTAKINGS]
     G --> H{Is it Yule?}
-    H -->|Ordinary FP| I[Company picks 1 undertaking\n+ 1 free undertaking]
-    H -->|Yule FP| J[Each player picks 1 undertaking\n+ Company picks 1 free undertaking\n+ Bonus SP equal to Wits rating]
+    H -->|Ordinary FP| I["Company picks 1 undertaking<br/>+ 1 free undertaking"]
+    H -->|Yule FP| J["Each player picks 1 undertaking<br/>+ Company picks 1 free undertaking<br/>+ Bonus SP equal to Wits rating"]
 ```
 
 ---
