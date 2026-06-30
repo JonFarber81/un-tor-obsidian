@@ -1,6 +1,6 @@
 ## Heroic Cultures
 ```dataview
-LIST FROM "_Assets/Reference/Cultures"
+LIST FROM "Reference/Cultures"
 ```
 
 #### Cultural Virtues
