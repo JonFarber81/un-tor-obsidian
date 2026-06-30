@@ -116,9 +116,10 @@ Due to their reduced size, Hobbits cannot use larger weapons effectively.
 > | | | | |
 > |--|--|--|--|
 > | Baggins | Boffin | Bolger | Bracegirdle |
-> | Brandybuck | Brown | Bunce | Burrows |
-> | Cotton | Gamgee | Gardner | Goodbody |
-> | Grubb | Headstrong | Hornblower | Maggot |
-> | Noakes | Proudfoot | Puddifoot | Roper |
+> | Brandybuck | Brown | Brownlock | Bunce |
+> | Burrows | Cotton | Gamgee | Gardner |
+> | Goldworthy | Goodbody | Goodchild | Grubb |
+> | Headstrong | Hornblower | Maggot | Noakes |
+> | North-tooks | Proudfoot | Puddifoot | Roper |
 > | Rumble | Sackville | Smallburrow | Took |
 > | Twofoot | Whitfoot | | |

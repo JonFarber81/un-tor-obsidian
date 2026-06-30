@@ -80,22 +80,51 @@ Stories tell that the Bardings lived under the shadow of a great Dragon for deca
 >
 > | | | | |
 > |--|--|--|--|
-> | Aegir | Arn | Brandulf | Domarr |
-> | Egil | Erland | Farald | Finn |
-> | Gautarr | Hafgrim | Hjalmar | Ingolf |
-> | Jofur | Kolbeinn | Leiknir | Lomund |
-> | Munan | Nari | Nefstan | Ottarr |
-> | Ragnarr | Reinald | Sigmarr | Steinarr |
-> | Thorald | Torwald | Ulfarr | Unnarr |
-> | Vandil | Varinn | | |
+> | Aegir | Agmund | Agnarr | Alfrim |
+> | Alfwald | Arn | Arnulf | Bain |
+> | Balki | Bard | Bern | Bragi |
+> | Brand | Brandulf | Dag | Domarr |
+> | Drengi | Egil | Einar | Eirik |
+> | Erland | Erling | Farald | Farmann |
+> | Farulf | Fastarr | Finn | Finnulf |
+> | Folki | Folkmarr | Galmann | Galti |
+> | Gautarr | Geirmund | Gismund | Gorm |
+> | Grimarr | Guthorm | Hafgrim | Haki |
+> | Hakon | Halfdan | Hamarr | Hedinn |
+> | Helgi | Hergrim | Hildir | Hjalmar |
+> | Holgeir | Holti | Holvidur | Hord |
+> | Ingi | Ingolf | Ioli | Isolf |
+> | Jarl | Jarmarr | Joalf | Joar |
+> | Jofur | Jokell | Karl | Ketill |
+> | Ketilmund | Kol | Kolbeinn | Kori |
+> | Leiknir | Lifstan | Lodin | Lomund |
+> | Magni | Mord | Munan | Nari |
+> | Nefstan | Nerulf | Odd | Oddmarr |
+> | Odvarr | Olaf | Olvard | Omund |
+> | Ornolf | Ottarr | Ragnarr | Randur |
+> | Reinald | Runolf | Sandarr | Saxulf |
+> | Sigdan | Sigfast | Sigmarr | Sigmund |
+> | Sigvald | Sigward | Skarf | Skefill |
+> | Smidur | Steinarr | Thorald | Thorfast |
+> | Torwald | Ulfarr | Ulfied | Unnarr |
+> | Valbrand | Valdimarr | Vali | Vandil |
+> | Varinn | Varr | | |
 >
 > **Female**
 >
 > | | | | |
 > |--|--|--|--|
-> | Aldis | Asfrid | Bera | Bergdis |
-> | Dagmar | Eilif | Erna | Frida |
-> | Geira | Gudrun | Halla | Hild |
-> | Ingirun | Ingrith | Thora | Thordis |
-> | Thorhild | Ulfhild | Ulfrun | Una |
-> | Valdis | Vigdis | Walda | |
+> | Aldis | Aldrif | Asfrid | Asny |
+> | Astrith | Bera | Bergdis | Brinhild |
+> | Dagmar | Dagny | Dalla | Edda |
+> | Eilif | Erna | Estrild | Eydis |
+> | Frida | Geira | Gerda | Grimhild |
+> | Gudrun | Gundrid | Gunnhild | Halla |
+> | Halldis | Halldora | Helga | Hild |
+> | Holma | Inga | Ingirun | Ingrith |
+> | Kelda | Lif | Linhild | Ragna |
+> | Runa | Saldis | Sigga | Signy |
+> | Sigrid | Sigrun | Solveig | Thora |
+> | Thordis | Thorhild | Thorleif | Ulfhild |
+> | Ulfrun | Una | Valdis | Vigdis |
+> | Walda | | | |

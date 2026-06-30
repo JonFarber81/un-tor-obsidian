@@ -84,13 +84,16 @@ The Elves find it hard to forget the taint of the Shadow once it has left its ma
 >
 > | | | | |
 > |--|--|--|--|
-> | Amras | Aredhel | Beleganor | Belegon |
-> | Calanhir | Carmagor | Dagorhir | Durandir |
-> | Edrahil | Ellahir | Fincalan | Fuindor |
-> | Galdagor | Galdor | Hallas | Hirimlad |
-> | Ithildir | Lascalan | Linaith | Mablin |
-> | Malanor | Nauros | Orgalad | Pelegorn |
-> | Sargon | | | |
+> | Aerandir | Amras | Amroth | Aredhel |
+> | Beleganor | Belegon | Calanhir | Caranthir |
+> | Carmagor | Dagorhir | Denethor | Durandir |
+> | Edrahil | Elladan | Ellahir | Erestor |
+> | Fincalan | Fuindor | Galdagor | Galdor |
+> | Galion | Guilin | Haldir | Hallas |
+> | Hirimlad | Ithildir | Lascalan | Legolas |
+> | Linaith | Lindir | Mablin | Malanor |
+> | Nauros | Orgalad | Orophin | Oropher |
+> | Pelegorn | Sargon | Thranduil | |
 >
 > **Female**
 >
@@ -98,8 +101,8 @@ The Elves find it hard to forget the taint of the Shadow once it has left its ma
 > |--|--|--|--|
 > | Anórel | Aranel | Arbereth | Baraniel |
 > | Calanril | Celebrindal | Celenneth | Elanor |
-> | Elwing | Eraniel | Fimbrethil | Gloredhel |
-> | Idril | Irilde | Laurelin | Lórwend |
-> | Lothíriel | Meneloth | Moriel | Narieth |
-> | Narniel | Nimloth | Nimrodel | Níniel |
-> | Tarandis | | | |
+> | Elwing | Eraniel | Fimbrethil | Finduilas |
+> | Gloredhel | Idril | Irilde | Laurelin |
+> | Lórwend | Lothíriel | Meneloth | Míriel |
+> | Moriel | Narieth | Narniel | Nimloth |
+> | Nimrodel | Níniel | Tarandis | |

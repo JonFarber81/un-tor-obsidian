@@ -87,17 +87,27 @@ The Rangers are devoted to fighting Sauron and his min- ions by an ancient tradi
 >
 > | | | | |
 > |--|--|--|--|
-> | Arador | Arahad | Arahael | Aranarth |
-> | Aranuir | Aravir | Aravorn | Argonui |
-> | Arvegil | Arveleg | Dírhael | Dúnhirion |
-> | Halbarad | Haldar | Malvegil | Mandor |
-> | Valandur | | | |
+> | Adrahil | Amlaith | Arador | Arahad |
+> | Arahael | Aranarth | Aranuir | Aravir |
+> | Aravorn | Argonui | Arvegil | Arveleg |
+> | Baranor | Belecthor | Bergil | Celepharn |
+> | Cirion | Damrod | Dírhael | Duinhir |
+> | Dúnhirion | Egalmoth | Eradan | Findemir |
+> | Forlong | Golasdan | Halbarad | Haldar |
+> | Hallas | Hirluin | Ingold | Iorlas |
+> | Malvegil | Mandor | Ohtar | Orodreth |
+> | Tarannon | Targon | Valandur | |
 >
 > **Female**
 >
 > | | | | |
 > |--|--|--|--|
-> | Gilraen | Ivorwen | Níniel | Rían |
-> | Aranel | Arien | Elriel | Fíriel |
-> | Moriel | Núneth | Orneth | Tariel |
-> | Vradiel | | | |
+> | Anwen | Aranel | Arbereth | Arien |
+> | Baraniel | Berúthiel | Calanril | Celenneth |
+> | Elnîth | Elriel | Eraniel | Finduilas |
+> | Fíriel | Gilraen | Gilraeth | Gloredhel |
+> | Idril | Ioreth | Ivorwen | Lôrwend |
+> | Lothíriel | Luindîs | Meneloth | Moriel |
+> | Morwen | Narieth | Narniel | Níniel |
+> | Núneth | Orothêl | Orneth | Rían |
+> | Tarandîs | Tariel | Vradiel | |

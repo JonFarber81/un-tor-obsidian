@@ -88,14 +88,19 @@ Dwarves are shorter than Men, but their work as miners and smiths endows them wi
 >
 > | | | | |
 > |--|--|--|--|
-> | Ai | Anar | Beli | Bláin |
-> | Borin | Burin | Bruni | Farin |
+> | Ai | Anar | Beli | Bifur |
+> | Bláin | Bofur | Bombur | Borin |
+> | Bruni | Burin | Dáin | Dori |
+> | Durin | Dwalin | Farin | Fíli |
 > | Flói | Frár | Frerin | Fróir |
-> | Ginar | Gróin | Grór | Hanar |
-> | Hepti | Iari | Lófar | Lóni |
-> | Náli | Nár | Niping | Nói |
-> | Nyrád | Ónar | Póri | Regin |
-> | Svior | Veig | Vidar | |
+> | Fundin | Gimli | Ginar | Glóin |
+> | Gróin | Grór | Hanar | Hepti |
+> | Iari | Kíli | Lófar | Lóni |
+> | Náin | Náli | Nár | Narvi |
+> | Niping | Nói | Nór | Nyrád |
+> | Óin | Ónar | Óri | Póri |
+> | Regin | Svior | Thorin | Thráin |
+> | Thrór | Veig | Vidar | |
 >
 > **Female**
 >
